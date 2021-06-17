@@ -10,3 +10,4 @@ dependencies:
     - sphinx-gallery
     - matplotlib
     - astropy
+    - scipy
